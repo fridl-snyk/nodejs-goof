@@ -15,7 +15,7 @@
     "test": "snyk test"
   },
   "dependencies": {
-    "adm-zip": "0.4.7"
+    "typeorm": "^0.2.24"
   },
   "devDependencies": {
     "browserify": "^13.1.1",
